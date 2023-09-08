@@ -37,11 +37,11 @@ The Padel Store E-Commerce Website is designed to showcase and sell Padel Racket
   - MongoDB: A NoSQL database for storing product data.
   - Mongoose: An ODM library for MongoDB.
 
-## Wireframes
+## Wirframes
 
-![image1](Mockups/1.png)
-![image2](Mockups/2.png)
-![image3](Mockups/3.png)
+![image1](Mockups/mockup 1.png)
+![image2](Mockups/mockup 2.png)
+![image3](Mockups/mockup 3.png)
 
 ## Getting Started
 
