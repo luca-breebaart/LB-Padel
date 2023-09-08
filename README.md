@@ -39,9 +39,9 @@ The Padel Store E-Commerce Website is designed to showcase and sell Padel Racket
 
 ## Wirframes
 
-![image1](Mockups/mockup 1.png)
-![image2](Mockups/mockup 2.png)
-![image3](Mockups/mockup 3.png)
+![image1](Mockups/mockup-1.png)
+![image2](Mockups/mockup-2.png)
+![image3](Mockups/mockup-3.png)
 
 ## Getting Started
 
