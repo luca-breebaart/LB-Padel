@@ -18,7 +18,7 @@ The Padel Store E-Commerce Website is designed to showcase and sell Padel Racket
 
 - **Product Listing:** Display a list of Padel Rackets with details such as name, brand, price, and description.
 - **Product View:** View individual product details, including images, and add products to the cart.
-- **Shopping Cart:** Manage items in the cart, adjust quantities, and proceed to checkout.
+- **Shopping Cart:** Manage items in the cart and proceed to checkout.
 - **Checkout:** Review cart items and complete the purchase with total calculation.
 - **Admin Panel:** Admins can add, update, and delete products from the store.
 - **Responsive Design:** The website is designed to work seamlessly on various screen sizes.
