@@ -8,7 +8,8 @@ Welcome to the Padel Store E-Commerce Website! This project is a web-based e-com
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Getting Started](#getting-started)
-5. [Installation](#installation)
+5. [Wirframes](#Wirframes)
+7. [Installation](#installation)
 
 ## Introduction
 
@@ -35,6 +36,12 @@ The Padel Store E-Commerce Website is designed to showcase and sell Padel Racket
   - Express.js: A Node.js web application framework.
   - MongoDB: A NoSQL database for storing product data.
   - Mongoose: An ODM library for MongoDB.
+
+## Wireframes
+
+![image1](Mockups/1.png)
+![image2](Mockups/2.png)
+![image3](Mockups/3.png)
 
 ## Getting Started
 
