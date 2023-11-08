@@ -151,7 +151,7 @@ Run the following in the command-line to install all the required dependencies:
 
 To see a run-through of the application, click below:
 
-[View Demonstration](BreebaartLuca_221345_DV200_Presentation_Video.mp4](https://drive.google.com/file/d/1nRaDlIqRUVv-yLDZjAS0ofccUM6J9VNP/view?usp=sharing)
+[View Demonstration](https://drive.google.com/file/d/1nRaDlIqRUVv-yLDZjAS0ofccUM6J9VNP/view?usp=sharing)
 
 <!-- AUTHORS -->
 ## Authors
