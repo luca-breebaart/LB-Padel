@@ -18,7 +18,7 @@
       <a href="https://github.com/luca-breebaart/LB-Padel"><strong>Explore the docs »</strong></a>
    <br />
    <br>
-   <a href="//">View Demo Video</a>
+   <a href="https://drive.google.com/file/d/1nRaDlIqRUVv-yLDZjAS0ofccUM6J9VNP/view?usp=sharing">View Demo Video</a>
    <br />
     
     
