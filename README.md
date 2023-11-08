@@ -33,8 +33,6 @@
   * [Prerequisites](#prerequisites)
   * [How to install](#how-to-install)
 * [Features and Functionality](#features-and-functionality)
-* [Concept Process](#concept-process)
-   * [Wireframes](#wireframes)
 * [Development Process](#development-process)
    * [Implementation Process](#implementation-process)
         * [Highlights](#highlights)
@@ -121,15 +119,6 @@ Run the following in the command-line to install all the required dependencies:
 - **Admin Panel:** Admins can add, update, and delete products from the store.
 - **Responsive Design:** The website is designed to work seamlessly on various screen sizes.
 
-## Concept Process
-
-### Wireframes
-
-![image1](Mockups/mockup1.png)
-<br>
-![image2](Mockups/mockup2.png)
-<br>
-![image3](Mockups/mockup3.png)
 
 ## Development Process
 
@@ -153,6 +142,11 @@ Run the following in the command-line to install all the required dependencies:
 
 ### Mockups
 
+![image1](Mockups/mockup1.png)
+<br>
+![image2](Mockups/mockup2.png)
+<br>
+![image3](Mockups/mockup3.png)
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
