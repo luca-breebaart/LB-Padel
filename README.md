@@ -15,7 +15,7 @@
    Welcome to the Padel Store E-Commerce Website! This project is a web-based e-commerce platform for selling Padel Rackets. Below, you'll find a comprehensive README with all the information you need to get started, run the project, and customize it according to your needs. 
     <br>
    <br>
-      <a href="https://github.com/luca-breebaart/DriveSphere"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/luca-breebaart/LB-Padel"><strong>Explore the docs »</strong></a>
    <br />
    <br>
    <a href="//">View Demo Video</a>
@@ -78,7 +78,6 @@ The following instructions will get you a copy of the project up and running on 
 Before getting started, ensure you have the following software installed:
 
 - [React](https://react.dev/learn/installation)
-- [Chart.js](https://www.chartjs.org/docs/latest/getting-started/installation.html)
 - [React Router](https://reactrouter.com/en/main)
 
 ### How to install
