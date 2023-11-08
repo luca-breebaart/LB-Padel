@@ -6,7 +6,7 @@
 <p align="center">
 
   <a href="https://github.com/luca-breebaart/LB-Padel">
-    <img src="client/src/logo.svg" alt="Logo" width="140" height="140">
+    <img src="LB_Padel_Store/client/src/logo.svg" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">LB-Padel</h3>
