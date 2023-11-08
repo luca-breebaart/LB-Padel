@@ -140,6 +140,9 @@ Run the following in the command-line to install all the required dependencies:
 
 ### Future Implementation
 
+- Enhanced User Profiles: Implementing an extensive user profile section, allowing users to manage their personal information and preferences.
+- Advanced Search and Filter Options: Expanding search and filter functionalities to provide users with a refined and tailored shopping experience.
+
 <!-- MOCKUPS -->
 ## Final Outcome
 
