@@ -77,8 +77,9 @@ The following instructions will get you a copy of the project up and running on 
 
 Before getting started, ensure you have the following software installed:
 
-- [React](https://react.dev/learn/installation)
-- [React Router](https://reactrouter.com/en/main)
+- Visual Studio Code
+- Browser (Chrome, Edge, Firefox, etc)
+- Node.js
 
 ### How to install
 
@@ -136,7 +137,11 @@ Run the following in the command-line to install all the required dependencies:
 
 #### Highlights
 
+- User-friendly Interface: The Padel Store E-Commerce Website features an intuitive and user-friendly interface, facilitating a seamless shopping experience.
+
 #### Challenges
+
+- Data Management: Integrating and managing data across the different parts of the application posed significant challenges, particularly in maintaining consistency and accuracy.
 
 ### Future Implementation
 
