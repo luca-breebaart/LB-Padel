@@ -41,7 +41,6 @@
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
     * [Video Demonstration](#video-demonstration)
-* [Conclusion](#conclusion)
 
 <!--PROJECT DESCRIPTION-->
 ## About the Project
